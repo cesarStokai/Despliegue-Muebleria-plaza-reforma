@@ -4,7 +4,7 @@
 1. Abre tu terminal o línea de comandos.
 2. Conéctate al servidor mediante SSH:
    ```bash
-   ssh root@LA_IP
+   ssh root@74.208.167.90
    ```
    - Si necesitas usar una clave privada, utiliza el siguiente comando:
      ```bash
@@ -105,3 +105,4 @@
 ---
 
 Con estos pasos, deberías tener un servidor configurado con Nginx, Docker y Docker Compose funcionando correctamente.
+
